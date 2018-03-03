@@ -31,8 +31,6 @@ namespace CartesianProduct2
             elementsOfTheSet = new List<int>();
         }
 
-        //1 - Mbushja e 1 bashkesie me elemente dhe ruajtja e tyre ne 1 property qe me pas do te therritet
-
         public List<int> SetElementsToTheSet(int TotalNumbers)
         {
             List<int> ElementsOfSet = new List<int>();
